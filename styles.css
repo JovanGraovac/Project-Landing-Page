@@ -100,6 +100,7 @@
 
 .boxes p {
     text-align: center;
+    color: #1f2937;
 }
 
 .item1, .item2, .item3, .item4 {
@@ -117,11 +118,39 @@
     border-color: #3882f6;
     border-radius: 10px;
     border-width: 4px;
+    margin-bottom: 20px;
 }
 
 .content-section {
     margin-bottom: 150px;
 }
 
+.quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
 
+.quote {
+    font-size: 36px;
+    margin-top: 150px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1f2937;
+    margin-bottom: 120px;
+}
+
+.quote p {
+    color: #1f2937;
+}
+
+.text-quote {
+    color: #1f2937;
+    font-weight: 100;
+}
+
+.signature {
+    text-align: end;
+    font-weight: bold;
+}
 
