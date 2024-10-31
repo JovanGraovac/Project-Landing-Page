@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 .header {
     align-items: center;
     width: 1200px;
@@ -16,22 +15,18 @@
     display: flex;
     gap: 20px;
 }
-
 .hero-section {
     color: white;
     background-color: #1F2937;
     padding-bottom: 120px;
 }
-
 .logo {
     font-size: 24px;
     font-weight: 800;
 }
-
 .links {
     font-size: 18px;
 }
-
 .container {
     display: flex;
     width: 1200px;
@@ -39,7 +34,6 @@
     background-color: #1f2937;
     margin-top: 80px;
 }
-
 .item-one{
     flex-basis: 100%;
     display: flex;
@@ -47,19 +41,16 @@
     justify-content: flex-start;
     align-items: baseline;
 }
-
 .one-header {
     font-size: 48px;
     font-weight: 800;
     color: #f9faf8;
 } 
-
 .one-content {
     color: #f9faf8;
     font-size: 18px;
     color: #e5e7eb;
 }
-
 .one-button {
     padding: 9px 45px;
     background-color: #3882F6;
@@ -70,7 +61,6 @@
     font-size: 18px;
     margin-top: 20px;
 }
-
 .item-two{
     flex-basis: 100%;
     display: flex;
@@ -80,7 +70,6 @@
     color: white;
 
 }
-
 .content-header {
     display: flex;
     justify-content: center;
@@ -89,7 +78,6 @@
     font-weight: 900;
     color: #1f2937;
 }
-
 .boxes {
     font-size: 18px;
     display: flex;
@@ -97,12 +85,10 @@
     margin: 0 auto;
     margin-top: 70px;
 }
-
 .boxes p {
     text-align: center;
     color: #1f2937;
 }
-
 .item1, .item2, .item3, .item4 {
     flex-basis: 100%;
     display: flex;
@@ -110,7 +96,6 @@
     justify-content: center;
     align-items: center;
 }
-
 .box1, .box2, .box3, .box4 {
     height: 200px;
     width: 200px;
@@ -120,17 +105,14 @@
     border-width: 4px;
     margin-bottom: 20px;
 }
-
 .content-section {
     margin-bottom: 150px;
 }
-
 .quote-section {
     background-color: #e5e7eb;
     display: flex;
     justify-content: center;
 }
-
 .quote {
     font-size: 36px;
     margin-top: 150px;
@@ -139,23 +121,18 @@
     color: #1f2937;
     margin-bottom: 120px;
 }
-
 .quote p {
     color: #1f2937;
 }
-
 .text-quote {
     color: #1f2937;
     font-weight: 100;
 }
-
 .signature {
     text-align: end;
     font-weight: bold;
 }
-
 .callToAction-section {
-
     width: 1200px;
     margin: 0 auto;
     display: flex;
@@ -169,28 +146,20 @@
     border-radius: 10px;
     
 }
-
 .cta-text {
     font-size: 24px;
     color: white;
 }
-
 .cta-text1 {
     font-weight: bold;
 }
-
 .cta-text2 {
     font-size: 20px;
 }
-
-
 .cta-button {
     display: flex;
-    align-items: center;
-    
-
+    align-items: center;   
 }
-
 .cta-signup {
     padding: 7px 45px;
     background-color: #3882F6;
@@ -200,7 +169,6 @@
     border-width: 3px;
     font-weight: bold;
 }
-
 .footer-section {
     background-color: #1F2937;
     color: white;
