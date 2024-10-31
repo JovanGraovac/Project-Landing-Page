@@ -1,0 +1,94 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    align-items: center;
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.hero-section {
+    color: white;
+    background-color: #1F2937;
+    padding-bottom: 120px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.links {
+    font-size: 18px;
+}
+
+.container {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #1f2937;
+    margin-top: 80px;
+}
+
+.item-one{
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.one-header {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+} 
+
+.one-content {
+    color: #f9faf8;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.one-button {
+    padding: 9px 45px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    border-style: none;
+    font-weight: 600;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.item-two{
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: white;
+
+}
+
+.content-section p {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
+
+
